@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba14a036-30d5-457e-8a38-80cb9c3f1153" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ablog/theblog/migrations/0009_welcomepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ablog/theblog/templates/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/fonts/Podkova-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/fonts/Podkova-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/fonts/Podkova-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/fonts/Podkova-ExtraBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/fonts/Podkova-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/fonts/Podkova-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/fonts/Podkova-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/fonts/Podkova-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/fonts/Podkova-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/fonts/Podkova-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/image/beard.png" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/image/beard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/image/chair.png" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/image/chair.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/image/randy.png" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/image/randy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/static/image/shop.png" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/static/image/shop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/templates/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/templates/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/theblog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/theblog/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ezWWtXA0jxQQ9SEtMAEz0gA5L5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ablog/theblog/static/css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ник\simpleblog\ablog\theblog\static\image" />
+      <recent name="C:\Users\Ник\simpleblog\ablog\static\image" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ник\simpleblog\ablog\theblog\static\css" />
+      <recent name="C:\Users\Ник\simpleblog\ablog\theblog\static\image" />
+      <recent name="C:\Users\Ник\simpleblog\ablog\theblog\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba14a036-30d5-457e-8a38-80cb9c3f1153" name="Default Changelist" comment="" />
+      <created>1595324936536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595324936536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
